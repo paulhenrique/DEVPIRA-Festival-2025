@@ -10,5 +10,5 @@ A Trilha Rio Claro é focada em práticas de desenvolvimento de software, qualid
 | **10:55** | Acessibilidade web na prática | Décio Stenico |
 | **11:45** | Modelagem Relacional X Modelagem Dimensional - aspectos quase sempre negligenciados na construção de DataWarehouses | Hugo Venturini |
 | **14:00** | Testes de Mutação: Como Descobrir se Seus Testes São Mentirosos | Carlos Forti |
-| **14:50** | Test Driven Development (TDD) na Prática. Uma demonstração com uso do framework Django. | Orlando Saraiva Júnior |
+| **14:50** | [Test Driven Development (TDD) na Prática. Uma demonstração com uso do framework Django.](https://github.com/orlandosaraivajr/festival_devPira_2025) | Orlando Saraiva Júnior |
 | **15:40** | [RAG na sua base transacional com MongoDB Atlas Vector Search](./RAG%20na%20sua%20base%20transacional%20com%20MongoDB%20Atlas.pdf) | Gabriel Limoni |

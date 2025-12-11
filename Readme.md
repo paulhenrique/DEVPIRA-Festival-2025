@@ -62,9 +62,9 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
-| **10:05** | AI First x Team First: Escolhas que Escalam Organizações e Desbloqueiam Valor com IA | Erik Aceiro Antonio |
+| **10:05** | [AI First x Team First: Escolhas que Escalam Organizações e Desbloqueiam Valor com IA](./Trilha%20Limeira/Erick%20Aceiro%20-%20AI%20FirstxTeam%20First.pdf) | Erik Aceiro Antonio |
 | **10:55** | IA e Segurança Cibernética | Fernando Bryan |
-| **11:45** | [GenAI Além do Prompt: do ML Clássico aos Sistemas Multiagentes](./Trilha%20Limeira/GenIA%20Além%20do%20Prompt.pdf) | Alisson Fernandes |
+| **11:45** | [GenAI Além do Prompt: do ML Clássico aos Sistemas Multiagentes](./Trilha%20Limeira/GenAI%20Além%20do%20Prompt.pdf) | Alisson Fernandes |
 | **14:00** | O futuro da Agilidade na IA | André Cipolini |
 | **14:50** | Vibe Coding - Aplicando IA no Desenvolvimento de Software | Bruno Orlandi |
 | **15:40** | Usando serviços de I.A. de Fala e Visão para criar aplicações inclusivas | Márcio Nizzola |
@@ -79,7 +79,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 | **10:55** | Acessibilidade web na prática | Décio Stenico |
 | **11:45** | Modelagem Relacional X Modelagem Dimensional - aspectos negligenciados em DataWarehouses | Hugo Venturini |
 | **14:00** | Testes de Mutação: Como Descobrir se Seus Testes São Mentirosos | Carlos Forti |
-| **14:50** | Test Driven Development (TDD) na Prática com Django | Orlando Saraiva Júnior |
+| **14:50** | [Test Driven Development (TDD) na Prática com Django](https://github.com/orlandosaraivajr/festival_devPira_2025) | Orlando Saraiva Júnior |
 | **15:40** | [RAG na sua base transacional com MongoDB Atlas Vector Search](./Trilha%20Rio%20Claro/RAG%20na%20sua%20base%20transacional%20com%20MongoDB%20Atlas.pdf) | Gabriel Limoni |
 
 ## 🌐 Mais Informações
