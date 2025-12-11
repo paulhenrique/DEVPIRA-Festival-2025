@@ -1,0 +1,14 @@
+# 🛠️ Trilha Rio Claro - DEVPIRA Festival 2025
+
+A Trilha Rio Claro é focada em práticas de desenvolvimento de software, qualidade de código, testes e arquitetura de dados.
+
+## 🗓️ Programação
+
+| Horário | Palestra | Palestrante(s) |
+| :--- | :--- | :--- |
+| **10:05** | O Dev estratégico existe? Ferramentas e práticas para ir Além | Ana Paula Lima |
+| **10:55** | Acessibilidade web na prática | Décio Stenico |
+| **11:45** | Modelagem Relacional X Modelagem Dimensional - aspectos quase sempre negligenciados na construção de DataWarehouses | Hugo Venturini |
+| **14:00** | Testes de Mutação: Como Descobrir se Seus Testes São Mentirosos | Carlos Forti |
+| **14:50** | Test Driven Development (TDD) na Prática. Uma demonstração com uso do framework Django. | Orlando Saraiva Júnior |
+| **15:40** | RAG na sua base transacional com MongoDB Atlas Vector Search | Gabriel Limoni |
