@@ -5,6 +5,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 ## 📚 Trilhas Disponíveis
 
 ### 🎤 [Trilha Piracicaba](./Trilha%20Piracicaba/)
+
 **Carreira, Desenvolvimento Profissional e Novas Fronteiras do Software**
 
 - Você não é um bot: descanso, carreira e tecnologia | Renata Genuíno e Matheus Barros
